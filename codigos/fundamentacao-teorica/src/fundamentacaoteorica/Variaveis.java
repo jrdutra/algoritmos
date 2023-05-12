@@ -2,7 +2,7 @@ package fundamentacaoteorica;
 
 public class Variaveis {
 
-	public static void main(String[] args) {
+	public static void main(Strings[] args) {
 		int varInt = 2;
 		char varChar = 'a';
 		double varFloat = 3.14;
