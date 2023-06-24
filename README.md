@@ -1,5 +1,5 @@
 # Aprenda e Melhore Sua Lógica de Programação Com Java
-![Logo Algoritmos Básicos](https://raw.githubusercontent.com/jrdutra/algoritmos/main/artes/Capa/arte-capa-pequena.png)
+![Logo Algoritmos Básicos](https://raw.githubusercontent.com/jrdutra/algoritmos/main/artes/capa/arte-capa-pequena.png)
 
 A habilidade de resolver problemas com algoritmos é uma habilidade essencial para um programador. Antes de conhecer frameworks modernos, como Spring, Quarkus, React.js, Angular, Django, Flask e muitos outros, é crucial ter uma boa compreensão da lógica de programação. De fato, é fundamental praticar a lógica de programação exaustivamente para se tornar realmente bom em programar com qualquer linguagem e/ou framework.
 
